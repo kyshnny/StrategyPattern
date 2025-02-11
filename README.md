@@ -1,4 +1,4 @@
-# StrategyPattern
+# StrategyPattern-GameApp
 
 Problem scenario:
 
@@ -21,3 +21,4 @@ B. AttackStrategy
 3. SwingSword
 
 UML Class Diagram:
+![StrategyPattern-GameApp UML Class Diagram](https://github.com/user-attachments/assets/61c65882-b5e4-45f9-ab24-4cd92a3e7bd1)
